@@ -8,3 +8,7 @@ Principal component analysis (PCA) is a mathematical procedure that transforms a
  The first principal component accounts for as much of the variability in the data as possible, and each succeeding component accounts for as much of the remaining variability as possible.
  
 Traditionally, principal component analysis is performed on a square symmetric matrix.  
+
+This project uses the Cancer dataset from scikitLearn.
+
+
